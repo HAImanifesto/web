@@ -1,6 +1,6 @@
-baseurl: '/'
+baseurl: '/web'
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'HAI Manifesto'
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
