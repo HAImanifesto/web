@@ -17,7 +17,7 @@ And the act of creation is not only about output — it is about authorship.
 *This Manifesto is a proposal for a practical framework of signaling and recognizing the collaborative authorship between Human & Artificial Intelligence. The HAI Mark provides a visible sign of this shared process.* 
  
 
-A new model where machines may contribute,   
+This is a new model where machines may contribute,
 but the human remains the source of intention, judgment, and responsibility.
 
 This model rests on simple but important principles:
@@ -35,3 +35,11 @@ This is a foundation.
 A way to stay oriented  
 as authorship evolves  
 and new forms of intelligence emerge.
+
+<h2 class="title">The HAI Mark</h2>
+
+This a label placed on creative works to indicate that they were produced with the help of artificial intelligence, under human direction and responsibility.
+
+<h2 class="title">The HAI Scale</h2>
+
+This is a classification system used to indicate the degree of AI involvement in the creation of a work — from fully human-made to fully machine-generated — with clear levels reflecting the balance of authorship.
