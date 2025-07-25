@@ -14,7 +14,7 @@ And the act of creation is not only about output — it is about authorship.
 **HAI/ — Human / Artificial Intelligence — marks a new model of authorship.**
  
 
-*This Manifesto is a proposal for a practical framework of signaling and recognizing the collaborative authorship between Human & Artificial Intelligence.*
+<span style="color: darkred;">This Manifesto is a proposal for a practical framework of signaling and recognizing the collaborative authorship between Human & Artificial Intelligence.</span>
  
 
 This is a new model where machines may contribute,
