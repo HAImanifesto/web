@@ -9,11 +9,15 @@ description: The HAI Manifesto
 We are entering an era where creative work is no longer made by humans alone.  
 Artificial systems can now assist in writing, designing, composing, analyzing.  
 But the presence of a machine does not erase the presence of the human.  
-And the act of creation is not only about output — it is about authorship. 
+And the act of creation is not only about output — it is about authorship.
 
-**HAI — Human & Artificial Intelligence — marks a new model of authorship.**  
+**HAI — Human & Artificial Intelligence — marks a new model of authorship.** 
+ 
 
-One where machines may contribute,  
+*This Manifesto is a proposal for a practical framework of signaling and recognizing the collaborative authorship. The HAI Mark provides a visible sign of this shared process.* 
+ 
+
+A new model where machines may contribute,   
 but the human remains the source of intention, judgment, and responsibility.
 
 This model rests on simple but important principles:
@@ -31,4 +35,4 @@ This is a foundation.
 Not a limit, but a lens.  
 A way to stay oriented  
 as authorship evolves  
-and new forms of intelligence emerge.  
+and new forms of intelligence emerge.
