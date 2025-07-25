@@ -1,7 +1,7 @@
 ---
-title: The H/AI Manifesto
+title: The HAI/manifesto
 layout: page
-description: The H/AI Manifesto
+description: The HAI/manifesto
 ---
 
 *A new authorship paradigm*
@@ -11,7 +11,7 @@ Artificial systems can now assist in writing, designing, composing, analyzing.
 But the presence of a machine does not erase the presence of the human.  
 And the act of creation is not only about output — it is about authorship.
 
-**H/AI — Human / Artificial Intelligence — marks a new model of authorship.**
+**HAI/ — Human / Artificial Intelligence — marks a new model of authorship.**
  
 
 *This Manifesto is a proposal for a practical framework of signaling and recognizing the collaborative authorship between Human & Artificial Intelligence.*
@@ -24,7 +24,7 @@ This model rests on simple but important principles:
 
 - **Human authorship is not optional.** It must be preserved, named, and visible.  
 - **AI contributions must be transparent.** We have a right to know how something was made.  
-- **Collaboration is layered.** H/AI makes space for shared processes, without confusion about origin.
+- **Collaboration is layered.** HAI/ makes space for shared processes, without confusion about origin.
 - **Responsibility stays with people.** Decisions, interpretations, and impacts are human matters.
 
 We use AI not to outsource creativity, but to support it.  
@@ -37,6 +37,6 @@ as authorship evolves
 and new forms of intelligence emerge.
 
 
-<h2 class="title">The H/AI Score</h2>
+<h2 class="title">The HAI/score</h2>
 
 This is a classification system used to indicate the degree of AI involvement in the creation of a work — from fully human-made to fully machine-generated — with clear levels reflecting the balance of authorship.
