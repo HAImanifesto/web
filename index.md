@@ -11,7 +11,9 @@ Artificial systems can now assist in writing, designing, composing, analyzing.
 But the presence of a machine does not erase the presence of the human.  
 And the act of creation is not only about output — it is about authorship. 
 
-**HAI — Human & Artificial Intelligence — marks a new model of authorship.**  
+**HAI — Human & Artificial Intelligence — marks a new model of authorship.**
+
+This Manifesto is a proposal for a practical framework of signaling and recognizing the collaborative authorship. The HAI Mark provides a visible sign of this shared process.
 
 One where machines may contribute,  
 but the human remains the source of intention, judgment, and responsibility.
