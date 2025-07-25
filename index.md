@@ -32,7 +32,6 @@ We choose tools that reveal, not conceal.
 We embrace complexity — not to mystify, but to understand.  
 
 This is a foundation.  
-Not a limit, but a lens.  
 A way to stay oriented  
 as authorship evolves  
 and new forms of intelligence emerge.
