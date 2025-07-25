@@ -36,10 +36,7 @@ A way to stay oriented
 as authorship evolves  
 and new forms of intelligence emerge.
 
-<h2 class="title">The HAI Mark</h2>
 
-This a label placed on creative works to indicate that they were produced with the help of artificial intelligence, under human direction and responsibility.
-
-<h2 class="title">The HAI Scale</h2>
+<h2 class="title">The HAI Score</h2>
 
 This is a classification system used to indicate the degree of AI involvement in the creation of a work — from fully human-made to fully machine-generated — with clear levels reflecting the balance of authorship.
