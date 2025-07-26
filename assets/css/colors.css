@@ -52,6 +52,26 @@
 }
 
 html.theme-dark {
+  --bg:        #0B1120;
+  --surface:   #111827;
+  --elevated:  #1F2937;
+  --border:    #334155;
+
+  --text:       #F8FAFC;
+  --text-muted: #94A3B8;
+
+  --link:       #93C5FD;
+  --link-hover: #BFDBFE;
+
+  --brand-primary: #93C5FD;
+  --brand-accent:  #FFD54A;
+  --selection:     #FFD54A33;
+
+  --success: #34D399;
+  --warning: #F59E0B;
+  --error:   #F87171;
+  --info:    #60A5FA;
+
   color-scheme: dark;
   background: var(--bg);
   color: var(--text);
