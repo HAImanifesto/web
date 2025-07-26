@@ -30,8 +30,8 @@ This framework is based on the acknowledgment that machines may contribute, but 
 - **Collaboration is layered.** HAI/ makes space for shared processes, without confusion about origin.
 - **Responsibility stays with people.** Decisions, interpretations, and impacts are human matters.
 
-This is a foundation.  
-A way to stay oriented\ 
+This is a foundation.\
+A way to stay oriented\
 as authorship evolves\
 and new forms of intelligence\
 emerge.
