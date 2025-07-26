@@ -1,7 +1,7 @@
 ---
-title: The HAI/manifesto
+title: The HAI/ Manifesto
 layout: page
-description: The HAI/manifesto
+description: The HAI/ Manifesto
 ---
 
 *A New Creative Paradigm for Human / Artificial Intelligence*
@@ -17,13 +17,13 @@ Artificial systems can now assist in writing, designing, composing, analyzing.
 But the presence of a machine does not erase the presence of the human.  
 And the act of creation is not only about output — it is about authorship.
 
-## HAI/framework
+## HAI/ Framework
 
 ***This Manifesto is a proposal for a practical framework of signaling and recognizing the collaborative authorship between Human & Artificial Intelligence.***
 
 It is an invitation — for creators across disciplines to declare their use of AI tools with transparency, and for publishers, platforms, and audiences to recognize and appreciate the added value that responsible co-authorship can bring. 
 
-## HAI/principles
+## HAI/ Principles
 
 This framework is based on the acknowledgment that machines may contribute, but the human remains the source of intention, judgment, and responsibility — a foundation that gives rise to the following key principles:
 
@@ -33,14 +33,14 @@ This framework is based on the acknowledgment that machines may contribute, but 
 - **Responsibility stays with people.** Decisions, interpretations, and impacts are human matters.
 
 
-## HAI/score
+## HAI/ Score
 
-The HAI/score is a simple way to indicate the degree and nature of AI involvement in the creation of a work — from fully human-made to fully machine-generated — with distinct levels reflecting the balance of authorship.
+The HAI/ Score is a classification system that signals the degree and nature of AI involvement in the creation of a work — from fully human-made to fully machine-generated — with distinct levels reflecting the balance of authorship.
 
 The meaning of the score is always contextual. Some situations — such as personal expression or educational evaluation — may call for minimal AI involvement. Others — such as technical, scientific, or analytical work — may benefit from more substantial support, especially when accuracy, consistency, or scale are priorities.
 
 
-## HAI/scale  
+## HAI/ Scale  
 
 | **Level** | **HI Involvement** | **AI Involvement** | **Description** |
 |-----------|-----------------------------|---------------------|------------------|
