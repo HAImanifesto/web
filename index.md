@@ -17,7 +17,7 @@ And the act of creation is not only about output — it is about authorship.
 ***This Manifesto is a proposal for a practical framework of signaling and recognizing the collaborative authorship between Human & Artificial Intelligence.***
 
 
-It is also an invitation — for creators across disciplines to declare their use of AI tools with transparency, and for publishers, platforms, and audiences to recognize and appreciate the added value that responsible co-authorship can bring.
+It is an invitation — for creators across disciplines to declare their use of AI tools with transparency, and for publishers, platforms, and audiences to recognize and appreciate the added value that responsible co-authorship can bring.
 
 The HAI/score offers a simple way to indicate the degree and nature of collaboration between human and artificial intelligence in the creation process.
 
@@ -29,8 +29,6 @@ This framework is based on the acknowledgment that machines may contribute, but 
 - **AI contributions must be transparent.** We have a right to know how something was made.  
 - **Collaboration is layered.** HAI/ makes space for shared processes, without confusion about origin.
 - **Responsibility stays with people.** Decisions, interpretations, and impacts are human matters.
-
-We use AI not to outsource creativity, but to support it.  
 
 This is a foundation.  
 A way to stay oriented  
