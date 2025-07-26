@@ -35,9 +35,7 @@ This framework is based on the acknowledgment that machines may contribute, but 
 
 ## HAI/score
 
-This is a classification system used to indicate the degree of AI involvement in the creation of a work — from fully human-made to fully machine-generated — with clear levels reflecting the balance of authorship. 
-
-The HAI/score offers a simple way to indicate the degree and nature of collaboration between human and artificial intelligence in the creation process.
+The HAI/score is a simple way to indicate the degree and nature of AI involvement in the creation of a work — from fully human-made to fully machine-generated — with distinct levels reflecting the balance of authorship.
 
 The meaning of the score is always contextual. Some situations — such as personal expression or educational evaluation — may call for minimal AI involvement. Others — such as technical, scientific, or analytical work — may benefit from more substantial support, especially when accuracy, consistency, or scale are priorities.
 
