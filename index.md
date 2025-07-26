@@ -17,8 +17,7 @@ And the act of creation is not only about output — it is about authorship.
 ***This Manifesto is a proposal for a practical framework of signaling and recognizing the collaborative authorship between Human & Artificial Intelligence.*** 
  
 
-This is a new paradigm where machines may contribute,
-but the human remains the source of intention, judgment, and responsibility.
+This framework rests on the acknowledgment that machines may contribute, but the human remains the source of intention, judgment, and responsibility.
 
 This model rests on simple but important principles:
 
