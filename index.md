@@ -58,72 +58,63 @@ The meaning of the score is always contextual. Some situations — such as perso
 
 ### **HAI/1** – *AI as proofreader.* 
 
-| Human Intelligence | Artificial Intelligence |
-|---------------------|---------------------|
+| *Human Intelligence* | *Artificial Intelligence* |
 | Provides full content and structure. | Spelling, punctuation, minor grammar fixes. AI used only for surface-level corrections, with no effect on meaning or style. |
 
 ---
 
-| **HAI/2** | – | ***AI as verifier.*** |
+### **HAI/2** – *AI as verifier.* 
 
-| Human Intelligence | Artificial Intelligence |
-|---------------------|---------------------|
+| *Human Intelligence* | *Artificial Intelligence* |
 | Human writes everything; Generates ideas, writes and edits content. | AI assists only with basic clarity and logic checks. Supports human thinking without reshaping the work. Suggests clarifications, flags inconsistencies. |
 
 ---
 
-| **HAI/3** | – | ***AI as stylist.***  |
+### **HAI/3** – *AI as stylist.* 
 
-| Human Intelligence | Artificial Intelligence |
-|---------------------|---------------------|
+| *Human Intelligence* | *Artificial Intelligence* |
 | Human authorship with AI assistance on form, tone, or voice. Writes content and defines the core message. | Refines the form without altering substance. Rewrites passages for clarity, tone, or flow. |
 
 ---
 
-| **HAI/4** | – | ***AI as architect.***   AI proposes how to say it structurally. |
+### **HAI/4** – *AI as architect.* 
 
-| Human Intelligence | Artificial Intelligence |
-|---------------------|---------------------|
+| *Human Intelligence* | *Artificial Intelligence* |
 | Human defines what to say; Provides the core idea, thesis, or message. | AI proposes how to say it structurally based on human intent. Builds outline, section structure, and flow. |
 
 ---
 
-| **HAI/5** | – | ***AI as co-author.***  |
+### **HAI/5** – *AI as co-author.* 
 
-| Human Intelligence | Artificial Intelligence |
-|---------------------|---------------------|
+| *Human Intelligence* | *Artificial Intelligence* |
 | Human defines the vision; Provides topic, intent, and guidance. | AI produces much of the initial content. Produces under human direction. Generates outline and writes first drafts. |
 
 ---
 
-| **HAI/6** | – | ***AI as autonomous drafter.*** |
+### **HAI/6** – *AI as autonomous drafter.* 
 
-| Human Intelligence | Artificial Intelligence |
-|---------------------|---------------------|
+| *Human Intelligence* | *Artificial Intelligence* |
 | Human provides only creative spark. Offers a prompt, theme, or starting idea. | AI creates full content from a minimal human prompt or concept. Develops full structure and detailed content. |
 
 ---
 
-| **HAI/7** | – | ***AI as lead author.*** |
+### **HAI/7** – *AI as lead author.* 
 
-| Human Intelligence | Artificial Intelligence |
-|---------------------|---------------------|
+| *Human Intelligence* | *Artificial Intelligence* |
 | Human curates or selects among AI-generated versions. Human plays a reviewing role; Sets goal, gives light feedback, selects output. | AI explores and evolves the draft. Produces multiple versions and refines content. |
 
 ---
 
-| **HAI/8** | – | ***AI as sole creator.*** |
+### **HAI/8** – *AI as sole creator.* 
 
-| Human Intelligence | Artificial Intelligence |
-|---------------------|---------------------|
+| *Human Intelligence* | *Artificial Intelligence* |
 |  Human involvement is passive or distant. Provides only a general topic or intent to publish. | AI authors the work from start to finish; Invents idea, structure, content, and revisions. |
 
 ---
 
-| **HAI/9** | – | ***Fully AI-authored.*** |
+### **HAI/9** – *Fully AI-authored.* 
 
-| Human Intelligence | Artificial Intelligence |
-|---------------------|---------------------|
+| *Human Intelligence* | *Artificial Intelligence* |
 | None. Human did not contribute to ideation, structure, or selection but merely triggers or uploads the result. | Fully AI-generated with no human creative input. Complete authorship: concept, writing, style, and editing. |
 
 
