@@ -47,6 +47,89 @@ The meaning of the score is always contextual. Some situations — such as perso
 
 ## HAI/ Scale  
 
+---
+
+### **HAI/0** – *Fully human-authored.* No digital assistance beyond basic tools like typing.
+
+| **HI Contribution** | **AI Contribution** |
+|---------------------|---------------------|
+| Full authorship: idea, structure, writing, editing. | None. |
+
+---
+
+### **HAI/1** – *AI as proofreader.* AI used only for surface-level corrections, with no effect on meaning or style.
+
+| **HI Contribution** | **AI Contribution** |
+|---------------------|---------------------|
+| Provides full content and structure. | Spelling, punctuation, minor grammar fixes. |
+
+---
+
+### **HAI/2** – *AI as verifier.* Human writes everything; AI assists only with basic clarity and logic checks. Supports human thinking without reshaping the work. 
+
+| **HI Contribution** | **AI Contribution** |
+|---------------------|---------------------|
+| Generates ideas, writes and edits content. | Suggests clarifications, flags inconsistencies. |
+
+---
+
+### **HAI/3** – *AI as stylist.* Refines the form without altering substance. Human authorship with AI assistance on form, tone, or voice.
+
+| **HI Contribution** | **AI Contribution** |
+|---------------------|---------------------|
+| Writes content and defines the core message. | Rewrites passages for clarity, tone, or flow. |
+
+---
+
+### **HAI/4** – *AI as architect.* Shapes the framework based on human intent. Human defines what to say; AI proposes how to say it structurally.
+
+| **HI Contribution** | **AI Contribution** |
+|---------------------|---------------------|
+| Provides the core idea, thesis, or message. | Builds outline, section structure, and flow. |
+
+---
+
+### **HAI/5** – *AI as co-author.* Produces under human direction. Human defines the vision; AI produces much of the initial content.
+
+| **HI Contribution** | **AI Contribution** |
+|---------------------|---------------------|
+| Provides topic, intent, and guidance. | Generates outline and writes first drafts. |
+
+---
+
+### **HAI/6** – AI creates full content from a minimal human prompt or concept.
+
+| **HI Contribution** | **AI Contribution** |
+|---------------------|---------------------|
+| Offers a prompt, theme, or starting idea. | Develops full structure and detailed content. |
+
+---
+
+### **HAI/7** – Human plays a reviewing role; AI explores and evolves the draft.
+
+| **HI Contribution** | **AI Contribution** |
+|---------------------|---------------------|
+| Sets goal, gives light feedback, selects output. | Produces multiple versions and refines content. |
+
+---
+
+### **HAI/8** – AI authors the work from start to finish; human is only passively involved.
+
+| **HI Contribution** | **AI Contribution** |
+|---------------------|---------------------|
+| Provides only a general topic or intent to publish. | Invents idea, structure, content, and revisions. |
+
+---
+
+### **HAI/9** – Fully AI-generated with no human creative input.
+
+| **HI Contribution** | **AI Contribution** |
+|---------------------|---------------------|
+| None. Human did not contribute to ideation, structure, or selection. | Complete authorship: concept, writing, style, and editing. |
+
+
+
+
 | **Level** | **HI Involvement** | **AI Involvement** | **Description** |
 |-----------|-----------------------------|---------------------|------------------|
 | **HAI/0** | The human does everything: originates the idea, creates the structure, writes the text, and refines it. | No AI used at any stage. | **Fully human-authored.** No digital assistance beyond basic tools like typing. |
