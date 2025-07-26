@@ -6,6 +6,8 @@ description: The HAI/manifesto
 
 *A New Creative Paradigm for the Age of AI*
 
+## HAI/framework
+
 We are entering an era where creative work is no longer made by humans alone.  
 Artificial systems can now assist in writing, designing, composing, analyzing.  
 But the presence of a machine does not erase the presence of the human.  
@@ -18,10 +20,7 @@ And the act of creation is not only about output — it is about authorship.
 
 
 It is an invitation — for creators across disciplines to declare their use of AI tools with transparency, and for publishers, platforms, and audiences to recognize and appreciate the added value that responsible co-authorship can bring.
-
-The HAI/score offers a simple way to indicate the degree and nature of collaboration between human and artificial intelligence in the creation process.
-
-The meaning of the score is always contextual. Some situations — such as personal expression or educational evaluation — may call for minimal AI involvement. Others — such as technical, scientific, or analytical work — may benefit from more substantial support, especially when accuracy, consistency, or scale are priorities.
+## HAI/principles
 
 This framework is based on the acknowledgment that machines may contribute, but the human remains the source of intention, judgment, and responsibility — a foundation that gives rise to the following key principles:
 
@@ -40,7 +39,7 @@ new forms of intelligence emerge.
 
 This is a classification system used to indicate the degree of AI involvement in the creation of a work — from fully human-made to fully machine-generated — with clear levels reflecting the balance of authorship.
 
-## HAI/ Authorship Attribution Scale  
+## HAI/scale  
 
 | **Level** | **HI Involvement** | **AI Involvement** | **Description** |
 |-----------|-----------------------------|---------------------|------------------|
@@ -54,3 +53,6 @@ This is a classification system used to indicate the degree of AI involvement in
 | **HAI/7** | The human defines the objective and may give brief feedback. | AI produces, revises, and refines multiple drafts with minimal human input. | **AI as lead author.** Human curates or selects among AI-generated versions. |
 | **HAI/8** | The human provides a general topic or intent to publish. | AI invents the ideas, structure, and writing entirely, including revisions. | **AI as sole creator.** Human involvement is passive or distant. |
 | **HAI/9** | No human creative input whatsoever. | AI originates the idea, generates the full work, and performs all refinement steps. | **Fully AI-authored.** Human merely triggers or uploads the result. |
+The HAI/score offers a simple way to indicate the degree and nature of collaboration between human and artificial intelligence in the creation process.
+
+The meaning of the score is always contextual. Some situations — such as personal expression or educational evaluation — may call for minimal AI involvement. Others — such as technical, scientific, or analytical work — may benefit from more substantial support, especially when accuracy, consistency, or scale are priorities.
