@@ -51,71 +51,71 @@ The meaning of the score is always contextual. Some situations — such as perso
 
 ### **HAI/0** - *Fully human-authored.*
  
-*Human Intelligence:* Full authorship: idea, structure, writing, editing.  
-*Artificial Intelligence:* None. No digital assistance beyond basic tools like typing.  
+**Human Intelligence:** Full authorship: idea, structure, writing, editing.\  
+**Artificial Intelligence:** None. No digital assistance beyond basic tools like typing.  
 
 ---
 
 ### **HAI/1** – *AI as proofreader.* 
 
-*Human Intelligence:*  Provides full content and structure.
-*Artificial Intelligence:* Spelling, punctuation, minor grammar fixes. AI used only for surface-level corrections, with no effect on meaning or style. 
+**Human Intelligence:**  Provides full content and structure.\
+**Artificial Intelligence:** Spelling, punctuation, minor grammar fixes. AI used only for surface-level corrections, with no effect on meaning or style. 
 
 ---
 
 ### **HAI/2** – *AI as verifier.* 
 
-*Human Intelligence:* Human writes everything; Generates ideas, writes and edits content.  
-*Artificial Intelligence:* AI assists only with basic clarity and logic checks. Supports human thinking without reshaping the work. Suggests clarifications, flags inconsistencies. 
+**Human Intelligence:** Human writes everything; Generates ideas, writes and edits content.\  
+**Artificial Intelligence:** AI assists only with basic clarity and logic checks. Supports human thinking without reshaping the work. Suggests clarifications, flags inconsistencies. 
 
 ---
 
 ### **HAI/3** – *AI as stylist.* 
 
-*Human Intelligence:* Human authorship with AI assistance on form, tone, or voice. Writes content and defines the core message.
-*Artificial Intelligence:* Refines the form without altering substance. Rewrites passages for clarity, tone, or flow. 
+**Human Intelligence:** Human authorship with AI assistance on form, tone, or voice. Writes content and defines the core message.\
+**Artificial Intelligence:** Refines the form without altering substance. Rewrites passages for clarity, tone, or flow. 
 
 ---
 
 ### **HAI/4** – *AI as architect.* 
 
-*Human Intelligence:* Human defines what to say; Provides the core idea, thesis, or message.  
-*Artificial Intelligence:* AI proposes how to say it structurally based on human intent. Builds outline, section structure, and flow. 
+**Human Intelligence:** Human defines what to say; Provides the core idea, thesis, or message.\  
+**Artificial Intelligence:** AI proposes how to say it structurally based on human intent. Builds outline, section structure, and flow. 
 
 ---
 
 ### **HAI/5** – *AI as co-author.* 
 
-*Human Intelligence:* Human defines the vision; Provides topic, intent, and guidance.
-*Artificial Intelligence:* AI produces much of the initial content. Produces under human direction. Generates outline and writes first drafts. 
+**Human Intelligence:** Human defines the vision; Provides topic, intent, and guidance.\
+**Artificial Intelligence:** AI produces much of the initial content. Produces under human direction. Generates outline and writes first drafts. 
 
 ---
 
 ### **HAI/6** – *AI as autonomous drafter.* 
 
-*Human Intelligence:* Human provides only creative spark. Offers a prompt, theme, or starting idea.
-*Artificial Intelligence:* AI creates full content from a minimal human prompt or concept. Develops full structure and detailed content. 
+**Human Intelligence:** Human provides only creative spark. Offers a prompt, theme, or starting idea.\
+**Artificial Intelligence:** AI creates full content from a minimal human prompt or concept. Develops full structure and detailed content. 
 
 ---
 
 ### **HAI/7** – *AI as lead author.* 
 
-*Human Intelligence:* Human curates or selects among AI-generated versions. Human plays a reviewing role; Sets goal, gives light feedback, selects output.
-*Artificial Intelligence:* AI explores and evolves the draft. Produces multiple versions and refines content. 
+**Human Intelligence:** Human curates or selects among AI-generated versions. Human plays a reviewing role; Sets goal, gives light feedback, selects output.\
+**Artificial Intelligence:** AI explores and evolves the draft. Produces multiple versions and refines content. 
 
 ---
 
 ### **HAI/8** – *AI as sole creator.* 
 
-*Human Intelligence:* Human involvement is passive or distant. Provides only a general topic or intent to publish.  
-*Artificial Intelligence:* AI authors the work from start to finish; Invents idea, structure, content, and revisions. 
+**Human Intelligence:** Human involvement is passive or distant. Provides only a general topic or intent to publish.\  
+**Artificial Intelligence:** AI authors the work from start to finish; Invents idea, structure, content, and revisions. 
 
 ---
 
 ### **HAI/9** – *Fully AI-authored.* 
 
-*Human Intelligence:* None. Human did not contribute to ideation, structure, or selection but merely triggers or uploads the result. 
-*Artificial Intelligence:* Fully AI-generated with no human creative input. Complete authorship: concept, writing, style, and editing. 
+**Human Intelligence:** None. Human did not contribute to ideation, structure, or selection but merely triggers or uploads the result.\ 
+**Artificial Intelligence:** Fully AI-generated with no human creative input. Complete authorship: concept, writing, style, and editing. 
 
 
 
