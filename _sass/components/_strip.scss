@@ -17,10 +17,10 @@
   }
 }
 .strip-primary-gradient {
-  background-image: linear-gradient(to right, $primary, $secondary);
+  background-image: linear-gradient(to right, var(--brand-primary), var(--brand-accent));
 }
 .strip-primary-gradient-top-bottom {
-  background-image: linear-gradient(to bottom, $primary, $secondary);
+  background-image: linear-gradient(to bottom, var(--brand-primary), var(--brand-accent));
 }
 .strip-primary {
   background-color: var(--brand-primary);
