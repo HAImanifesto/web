@@ -51,8 +51,8 @@ The meaning of the score is always contextual. Some situations — such as perso
 
 ### **HAI/0** - *Fully human-authored.*
  
-| *Human Intelligence* | *Artificial Intelligence* |
-| Full authorship: idea, structure, writing, editing. | None. No digital assistance beyond basic tools like typing. | 
+**Human Intelligence:** Full authorship: idea, structure, writing, editing.  
+*Artificial Intelligence:* None. No digital assistance beyond basic tools like typing.  
 
 ---
 
