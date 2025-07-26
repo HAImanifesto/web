@@ -1,9 +1,9 @@
 main:
-  - name: "EN"
+  - name: "Manifesto"
     url: "/"
     weight: 1
 
 footer:
-  - name: "EN"
+  - name: "Manifesto"
     url: "/"
     weight: 1
