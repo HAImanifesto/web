@@ -6,16 +6,8 @@ description: The HAI/ Manifesto
 
 *A New Creative Paradigm for Human / Artificial Intelligence*
 
-
-This is a foundation.\
-A way to stay oriented\
-as authorship evolves and\
-new forms of intelligence emerge.
-
-We are entering an era where creative work is no longer made by humans alone.  
-Artificial systems can now assist in writing, designing, composing, analyzing.  
-But the presence of a machine does not erase the presence of the human.  
-And the act of creation is not only about output — it is about authorship.
+A new era of authorship has arrived. Most creators — novelists, designers, coders, composers — already weave generative AI into their process, sketching storyboards, remixing beats, or colour-grading photos at machine speed. Yet no algorithm can feel doubt, pride or moral duty; that power remains human.
+**The HAI/ Framework keeps that living core visible, mapping exactly where human and machine meet so creators, publishers and audiences stay oriented in every collaboration ahead.**
 
 ## HAI/ Framework
 
@@ -40,7 +32,7 @@ This framework is based on the acknowledgment that machines may contribute, but 
 
 ## HAI/ Score
 
-The HAI/ Score is a classification system that signals the degree and nature of AI involvement in the creation of a work — from fully human-made to fully machine-generated — with distinct levels reflecting the balance of authorship.
+The HAI/ Score is a classification system that signals the degree and nature of AI involvement in the creation of any work — novel, film sequence, orchestral score, source code — ranking it from fully human-made to fully machine-generated with distinct levels reflecting the balance of authorship.
 
 The meaning of the score is always contextual. Some situations — such as personal expression or educational evaluation — may call for minimal AI involvement. Others — such as technical, scientific, or analytical work — may benefit from more substantial support, especially when accuracy, consistency, or scale are priorities.
 
