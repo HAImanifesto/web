@@ -19,9 +19,14 @@ And the act of creation is not only about output — it is about authorship.
 
 ## HAI/ Framework
 
-***This Manifesto is a proposal for a practical framework of signaling and recognizing the collaborative authorship between Human & Artificial Intelligence.***
+The HAI/ Framework provides a method for identifying, classifying, and communicating the involvement of artificial intelligence in the creation of a work.
 
-It is an invitation — for creators across disciplines to declare their use of AI tools with transparency, and for publishers, platforms, and audiences to recognize and appreciate the added value that responsible co-authorship can bring. 
+Its goal is to make the degree of human–AI collaboration visible and understandable — both for those who create content and for those who evaluate, publish, or experience it.
+
+It encourages creators to clearly state how AI tools were used, and invites publishers, institutions, and audiences to appreciate this transparency not only as context, but as something that enriches the authenticity, clarity, and meaning of the work itself.
+
+The framework does not prescribe how AI should be used.
+It offers a structure for describing that use — openly, responsibly, and in context. 
 
 ## HAI/ Principles
 
