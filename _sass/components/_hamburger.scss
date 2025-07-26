@@ -12,7 +12,7 @@
   .hamburger-inner,
   .hamburger-inner::before,
   .hamburger-inner::after {
-    background: $primary;
+    background: var(--brand-primary);
   }
   .hamburger-inner::after {
     width: 18px;
