@@ -21,7 +21,7 @@ And the act of creation is not only about output — it is about authorship.
 
 The HAI/ Framework provides a method for identifying, classifying, and communicating the involvement of artificial intelligence in the creation of a work.
 
-Its goal is to make the degree of human–AI collaboration visible and understandable — both for those who create content and for those who evaluate, publish, or experience it.
+Its goal is to make the degree of human–machine collaboration visible and understandable — both for those who create content and for those who evaluate, publish, or experience it. 
 
 It encourages creators to clearly state how AI tools were used, and invites publishers, institutions, and audiences to appreciate this transparency not only as context, but as something that enriches the authenticity, clarity, and meaning of the work itself.
 
