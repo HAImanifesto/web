@@ -49,7 +49,7 @@ The meaning of the score is always contextual. Some situations — such as perso
 
 ---
 
-### **HAI/0** – *Fully human-authored.* No digital assistance beyond basic tools like typing.
+#### **HAI/0** – *Fully human-authored.* No digital assistance beyond basic tools like typing.
 
 | **HI Contribution** | **AI Contribution** |
 |---------------------|---------------------|
@@ -57,7 +57,7 @@ The meaning of the score is always contextual. Some situations — such as perso
 
 ---
 
-### **HAI/1** – *AI as proofreader.* AI used only for surface-level corrections, with no effect on meaning or style.
+#### **HAI/1** – *AI as proofreader.* AI used only for surface-level corrections, with no effect on meaning or style.
 
 | **HI Contribution** | **AI Contribution** |
 |---------------------|---------------------|
@@ -65,7 +65,7 @@ The meaning of the score is always contextual. Some situations — such as perso
 
 ---
 
-### **HAI/2** – *AI as verifier.* Human writes everything; AI assists only with basic clarity and logic checks. Supports human thinking without reshaping the work. 
+#### **HAI/2** – *AI as verifier.* Human writes everything; AI assists only with basic clarity and logic checks. Supports human thinking without reshaping the work. 
 
 | **HI Contribution** | **AI Contribution** |
 |---------------------|---------------------|
@@ -73,7 +73,7 @@ The meaning of the score is always contextual. Some situations — such as perso
 
 ---
 
-### **HAI/3** – *AI as stylist.* Refines the form without altering substance. Human authorship with AI assistance on form, tone, or voice.
+#### **HAI/3** – *AI as stylist.* Refines the form without altering substance. Human authorship with AI assistance on form, tone, or voice.
 
 | **HI Contribution** | **AI Contribution** |
 |---------------------|---------------------|
@@ -81,7 +81,7 @@ The meaning of the score is always contextual. Some situations — such as perso
 
 ---
 
-### **HAI/4** – *AI as architect.* Shapes the framework based on human intent. Human defines what to say; AI proposes how to say it structurally.
+#### **HAI/4** – *AI as architect.* Shapes the framework based on human intent. Human defines what to say; AI proposes how to say it structurally.
 
 | **HI Contribution** | **AI Contribution** |
 |---------------------|---------------------|
@@ -89,7 +89,7 @@ The meaning of the score is always contextual. Some situations — such as perso
 
 ---
 
-### **HAI/5** – *AI as co-author.* Produces under human direction. Human defines the vision; AI produces much of the initial content.
+#### **HAI/5** – *AI as co-author.* Produces under human direction. Human defines the vision; AI produces much of the initial content.
 
 | **HI Contribution** | **AI Contribution** |
 |---------------------|---------------------|
@@ -97,7 +97,7 @@ The meaning of the score is always contextual. Some situations — such as perso
 
 ---
 
-### **HAI/6** – AI creates full content from a minimal human prompt or concept.
+#### **HAI/6** –  *AI as autonomous drafter.* Human provides only creative spark. AI creates full content from a minimal human prompt or concept.
 
 | **HI Contribution** | **AI Contribution** |
 |---------------------|---------------------|
@@ -105,7 +105,7 @@ The meaning of the score is always contextual. Some situations — such as perso
 
 ---
 
-### **HAI/7** – Human plays a reviewing role; AI explores and evolves the draft.
+#### **HAI/7** – *AI as lead author.* Human curates or selects among AI-generated versions. Human plays a reviewing role; AI explores and evolves the draft.
 
 | **HI Contribution** | **AI Contribution** |
 |---------------------|---------------------|
@@ -113,7 +113,7 @@ The meaning of the score is always contextual. Some situations — such as perso
 
 ---
 
-### **HAI/8** – AI authors the work from start to finish; human is only passively involved.
+#### **HAI/8** – *AI as sole creator.* Human involvement is passive or distant. AI authors the work from start to finish; human is only passively involved.
 
 | **HI Contribution** | **AI Contribution** |
 |---------------------|---------------------|
@@ -121,7 +121,7 @@ The meaning of the score is always contextual. Some situations — such as perso
 
 ---
 
-### **HAI/9** – Fully AI-generated with no human creative input.
+#### **HAI/9** – *Fully AI-authored.* Human merely triggers or uploads the result. Fully AI-generated with no human creative input.
 
 | **HI Contribution** | **AI Contribution** |
 |---------------------|---------------------|
