@@ -4,7 +4,7 @@ layout: page
 description: The HAI/manifesto
 ---
 
-*A New Creative Paradigm for the Age of AI*
+*A New Creative Paradigm for Human / Artificial Intelligence*
 
 
 This is a foundation.\
@@ -18,8 +18,6 @@ But the presence of a machine does not erase the presence of the human.
 And the act of creation is not only about output — it is about authorship.
 
 ## HAI/framework
-
-*HAI/ — Human / Artificial Intelligence — marks a new model of authorship.*
 
 ***This Manifesto is a proposal for a practical framework of signaling and recognizing the collaborative authorship between Human & Artificial Intelligence.***
 
