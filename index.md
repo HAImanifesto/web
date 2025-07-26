@@ -7,7 +7,7 @@ description: The HAI/ Manifesto
 *A New Creative Paradigm for Human / Artificial Intelligence*
 
 A new era of authorship has arrived. Most creators — novelists, designers, coders, composers — already weave generative AI into their process, sketching storyboards, remixing beats, or colour-grading photos at machine speed. Yet no algorithm can feel doubt, pride or moral duty; that power remains human.
-**The HAI/ Framework keeps that living core visible, mapping exactly where human and machine meet so creators, publishers and audiences stay oriented in every collaboration ahead.**
+**Keeping that living core visible — mapping exactly where human and machine meet — is of utmost importance, so creators, publishers, and audiences stay oriented in every collaboration ahead.**
 
 ## HAI/ Framework
 
