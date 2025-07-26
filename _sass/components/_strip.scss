@@ -1,12 +1,12 @@
 .strip {
-  background: white;
+  background: var(--bg);
   background-repeat: no-repeat;
 }
 .strip-white {
-  background-color: white;
+  background-color: var(--bg);
 }
 .strip-grey {
-  background-color: $white-offset;
+  background-color: var(--surface);
 }
 .strip-diagonal {
   transform: skewY(5deg);
@@ -23,10 +23,10 @@
   background-image: linear-gradient(to bottom, $primary, $secondary);
 }
 .strip-primary {
-  background-color: $primary;
+  background-color: var(--brand-primary);
 }
 .strip-secondary {
-  background-color: $secondary;
+  background-color: var(--brand-accent);
 }
 
 .strip-diagonal-right {

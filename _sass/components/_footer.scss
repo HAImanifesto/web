@@ -1,5 +1,6 @@
 .footer {
-  background: $footer-background-color;
+  background: var(--elevated);
+  border-top: 1px solid var(--border);
   padding-top: 15px;
   padding-bottom: 15px;
   .footer-inner {
@@ -14,7 +15,7 @@
     }
   }
   .footer-title {
-    color: #ffffff;
+    color: var(--text);
     font-size: 1.3rem;
     font-family: $font-family-heading;
     font-weight: bold;
@@ -28,10 +29,10 @@
     margin: 0;
     padding: 0;
     li {
-      color: $footer-text-color;
+      color: var(--text-muted);
       font-size: 1rem;
       a {
-        color: $footer-text-color;
+        color: var(--text-muted);
         text-decoration: none;
         padding: 12px 14px 12px 0;
         display: block;

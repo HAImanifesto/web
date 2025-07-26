@@ -21,7 +21,7 @@
         font-weight: normal;
       }
       p {
-        color: $black;
+        color: var(--text);
         text-transform: uppercase;
         margin: 0;
         font-size: 12px;
@@ -35,7 +35,7 @@
   }
 
   .team-summary-large {
-    background-color: $white-offset;
+    background-color: var(--surface);
     padding: 30px;
     border-radius: 3px;
     .team-image {
