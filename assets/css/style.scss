@@ -3,13 +3,14 @@
 
 @import "colors";
 
-// Colors mapped to CSS variables
-$primary: var(--brand-primary);
-$secondary: var(--brand-accent);
-$black: var(--text);
-$white: var(--text-inverse);
-$white-offset: var(--surface);
-$steel: var(--text-muted);
+// Map Sass variables to the base palette
+// Use real color values so Bootstrap's color functions work correctly
+$primary: $brand-primary;
+$secondary: $brand-accent;
+$black: $text;
+$white: $text-inverse;
+$white-offset: $surface;
+$steel: $text-muted;
 
 // Links
 $link-color: var(--link);
