@@ -4,7 +4,7 @@ layout: page
 description: The HAI/manifesto
 ---
 
-*A new authorship paradigm*
+*A New Creative Paradigm for the Age of AI*
 
 We are entering an era where creative work is no longer made by humans alone.  
 Artificial systems can now assist in writing, designing, composing, analyzing.  
