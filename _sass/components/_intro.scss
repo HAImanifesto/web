@@ -10,7 +10,7 @@
     padding-bottom: 140px;
   }
   h1 {
-    color: $black;
+    color: var(--text);
     font-size: 42px;
     font-weight: bold;
     line-height: 1.2;
@@ -27,14 +27,14 @@
     font-size: 1.2rem;
     line-height: 1.4;
     margin-bottom: 30px;
-    color: $black;
+    color: var(--text);
     font-family: $font-family-base;
   }
   p {
     font-size: 1.2rem;
     font-weight: light;
     line-height: 1.5;
-    color: $steel;
+    color: var(--text-muted);
     @include media-breakpoint-up(md) {
       width: 80%;
     }

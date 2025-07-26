@@ -15,7 +15,7 @@
         display: inline-block;
         font-weight: normal;
         text-decoration: none;
-        color: $primary;
+        color: var(--brand-primary);
         &:hover {
           text-decoration: underline;
         }

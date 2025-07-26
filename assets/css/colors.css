@@ -1,0 +1,58 @@
+/* Palette A — Saffron · Oxford (light + dark) */
+
+/* Light theme */
+:root {
+  --brand-primary: #0B2545; /* Oxford Blue */
+  --brand-accent:  #FFC300; /* Saffron */
+  --brand-accent-600: #E6AF00;
+  --brand-accent-300: #FFD84D;
+
+  --bg:        #FFFFFF;
+  --surface:   #F8FAFC;
+  --elevated:  #EEF2F7;
+  --border:    #E5E7EB;
+
+  --text:        #0F172A;
+  --text-muted:  #475569;
+  --text-inverse:#FFFFFF;
+
+  --link:       #0B2545;
+  --link-hover: #15395F;
+  --selection:  #FFC30033; /* 20% saffron */
+
+  --success: #1EA972;
+  --warning: #B45309;
+  --error:   #C1272D;
+  --info:    #2563EB;
+}
+
+/* Dark theme */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg:        #0B1120;
+    --surface:   #111827;
+    --elevated:  #1F2937;
+    --border:    #334155;
+
+    --text:       #F8FAFC;
+    --text-muted: #94A3B8;
+
+    --link:       #93C5FD;   /* lifted for contrast */
+    --link-hover: #BFDBFE;
+
+    --brand-primary: #93C5FD; /* Oxford lifted for dark */
+    --brand-accent:  #FFD54A; /* Saffron lifted for dark */
+    --selection:     #FFD54A33;
+
+    --success: #34D399;
+    --warning: #F59E0B;
+    --error:   #F87171;
+    --info:    #60A5FA;
+  }
+}
+
+html.theme-dark {
+  color-scheme: dark;
+  background: var(--bg);
+  color: var(--text);
+}
