@@ -51,7 +51,7 @@ The meaning of the score is always contextual. Some situations — such as perso
 
 ### **HAI/0** - *Fully human-authored.*
  
-**Human Intelligence:** Full authorship: idea, structure, writing, editing.\  
+**Human Intelligence:** Full authorship: idea, structure, writing, editing.\
 **Artificial Intelligence:** None. No digital assistance beyond basic tools like typing.  
 
 ---
@@ -65,7 +65,7 @@ The meaning of the score is always contextual. Some situations — such as perso
 
 ### **HAI/2** – *AI as verifier.* 
 
-**Human Intelligence:** Human writes everything; Generates ideas, writes and edits content.\  
+**Human Intelligence:** Human writes everything; Generates ideas, writes and edits content.\
 **Artificial Intelligence:** AI assists only with basic clarity and logic checks. Supports human thinking without reshaping the work. Suggests clarifications, flags inconsistencies. 
 
 ---
@@ -79,7 +79,7 @@ The meaning of the score is always contextual. Some situations — such as perso
 
 ### **HAI/4** – *AI as architect.* 
 
-**Human Intelligence:** Human defines what to say; Provides the core idea, thesis, or message.\  
+**Human Intelligence:** Human defines what to say; Provides the core idea, thesis, or message.\
 **Artificial Intelligence:** AI proposes how to say it structurally based on human intent. Builds outline, section structure, and flow. 
 
 ---
@@ -107,14 +107,14 @@ The meaning of the score is always contextual. Some situations — such as perso
 
 ### **HAI/8** – *AI as sole creator.* 
 
-**Human Intelligence:** Human involvement is passive or distant. Provides only a general topic or intent to publish.\  
+**Human Intelligence:** Human involvement is passive or distant. Provides only a general topic or intent to publish.\
 **Artificial Intelligence:** AI authors the work from start to finish; Invents idea, structure, content, and revisions. 
 
 ---
 
 ### **HAI/9** – *Fully AI-authored.* 
 
-**Human Intelligence:** None. Human did not contribute to ideation, structure, or selection but merely triggers or uploads the result.\ 
+**Human Intelligence:** None. Human did not contribute to ideation, structure, or selection but merely triggers or uploads the result.\
 **Artificial Intelligence:** Fully AI-generated with no human creative input. Complete authorship: concept, writing, style, and editing. 
 
 
