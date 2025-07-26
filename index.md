@@ -23,9 +23,7 @@ The HAI/score offers a simple way to indicate the degree and nature of collabora
 
 The meaning of the score is always contextual. Some situations — such as personal expression or educational evaluation — may call for minimal AI involvement. Others — such as technical, scientific, or analytical work — may benefit from more substantial support, especially when accuracy, consistency, or scale are priorities.
 
-This framework rests on the acknowledgment that machines may contribute, but the human remains the source of intention, judgment, and responsibility.
-
-This model rests on simple but important principles:
+This framework is based on the acknowledgment that machines may contribute, but the human remains the source of intention, judgment, and responsibility — a foundation that gives rise to the following key principles:
 
 - **Human authorship is not optional.** It must be preserved, named, and visible.  
 - **AI contributions must be transparent.** We have a right to know how something was made.  
