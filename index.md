@@ -49,14 +49,14 @@ The meaning of the score is always contextual. Some situations — such as perso
 
 ---
 
-| **HAI/0** | - | ***Fully human-authored.*** |
+### **HAI/0** - *Fully human-authored.*
  
 | *Human Intelligence* | *Artificial Intelligence* |
 | Full authorship: idea, structure, writing, editing. | None. No digital assistance beyond basic tools like typing. | 
 
 ---
 
-| **HAI/1** | – | ***AI as proofreader.*** |
+### **HAI/1** – *AI as proofreader.* 
 
 | Human Intelligence | Artificial Intelligence |
 |---------------------|---------------------|
