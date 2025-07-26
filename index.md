@@ -32,8 +32,9 @@ This framework is based on the acknowledgment that machines may contribute, but 
 
 This is a foundation.  
 A way to stay oriented  
-as authorship evolves  
-and new forms of intelligence emerge.
+as authorship evolves
+and new forms of intelligence
+emerge.
 
 
 <h2 class="title">The HAI/score</h2>
