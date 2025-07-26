@@ -1,11 +1,11 @@
-/* Palette A — Saffron · Oxford (light + dark) */
+/* Palette A — Oxford & Orange (light + dark) */
 
 /* Light theme */
 :root {
   --brand-primary: #0B2545; /* Oxford Blue */
-  --brand-accent:  #FFC300; /* Saffron */
-  --brand-accent-600: #E6AF00;
-  --brand-accent-300: #FFD84D;
+  --brand-accent:  #FF5722; /* Vibrant Orange */
+  --brand-accent-600: #E64A19;
+  --brand-accent-300: #FF8A50;
 
   --bg:        #FFFFFF;
   --surface:   #F8FAFC;
@@ -18,7 +18,7 @@
 
   --link:       #0B2545;
   --link-hover: #15395F;
-  --selection:  #FFC30033; /* 20% saffron */
+  --selection:  #FF572233; /* 20% accent */
 
   --success: #1EA972;
   --warning: #B45309;
@@ -41,8 +41,8 @@
     --link-hover: #BFDBFE;
 
     --brand-primary: #93C5FD; /* Oxford lifted for dark */
-    --brand-accent:  #FFD54A; /* Saffron lifted for dark */
-    --selection:     #FFD54A33;
+    --brand-accent:  #FF8A50; /* Accent lifted for dark */
+    --selection:     #FF8A5033;
 
     --success: #34D399;
     --warning: #F59E0B;
