@@ -22,10 +22,10 @@
   <g filter="url(#f-donut-5-500)">
     <g transform="rotate(-90 100 100)">
       <circle cx="100" cy="100" r="72" fill="none"
-              stroke="#FFC300" stroke-width="42" stroke-linecap="butt"
+              stroke="#0B2545" stroke-width="42" stroke-linecap="butt"
               stroke-dasharray="226.19 226.19"/>
       <circle cx="100" cy="100" r="72" fill="none"
-              stroke="#0B2545" stroke-width="42" stroke-linecap="butt"
+              stroke="#FFC300" stroke-width="42" stroke-linecap="butt"
               stroke-dasharray="226.19 226.19" stroke-dashoffset="-226.19"/>
     </g>
   </g>

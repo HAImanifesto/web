@@ -7,11 +7,11 @@
   <g >
     <g transform="rotate(-90 100 100)">
       <circle cx="100" cy="100" r="72" fill="none"
-              stroke="#FFC300" stroke-width="42" stroke-linecap="butt"
-              stroke-dasharray="452.39 0.00"/>
-      <circle cx="100" cy="100" r="72" fill="none"
               stroke="#0B2545" stroke-width="42" stroke-linecap="butt"
-              stroke-dasharray="0.00 452.39" stroke-dashoffset="-452.39"/>
+              stroke-dasharray="0.00 452.39"/>
+      <circle cx="100" cy="100" r="72" fill="none"
+              stroke="#FFC300" stroke-width="42" stroke-linecap="butt"
+              stroke-dasharray="452.39 0.00" stroke-dashoffset="-0.00"/>
     </g>
   </g>
 

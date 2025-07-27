@@ -59,11 +59,11 @@ def svg_for(score, p, plate_fill, plate_opacity, text_color, with_filters):
   <g {donut_filter_attr}>
     <g transform="rotate(-90 100 100)">
       <circle cx="100" cy="100" r="{RADIUS}" fill="none"
-              stroke="{HUMAN}" stroke-width="{RING_WIDTH}" stroke-linecap="butt"
-              stroke-dasharray="{Hs} {As}"/>
-      <circle cx="100" cy="100" r="{RADIUS}" fill="none"
               stroke="{AI}" stroke-width="{RING_WIDTH}" stroke-linecap="butt"
-              stroke-dasharray="{As} {Hs}" stroke-dashoffset="-{Hs}"/>
+              stroke-dasharray="{As} {Hs}"/>
+      <circle cx="100" cy="100" r="{RADIUS}" fill="none"
+              stroke="{HUMAN}" stroke-width="{RING_WIDTH}" stroke-linecap="butt"
+              stroke-dasharray="{Hs} {As}" stroke-dashoffset="-{As}"/>
     </g>
   </g>
 
